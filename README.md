@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tunji-og
 - 👀 I’m interested in Data Science and Backend technologies 
-- 🌱 I’m currently learning CSS and Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on basic project
 - 📫 How to reach me @adetunjiogunsusi@gmail.com 
 
